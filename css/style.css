@@ -572,28 +572,28 @@
 
 /* Services Style */
 .bg-service-1 {
-    background-image: url('../img/service-1.jpg');
+    background-image: url('../img/service-one.jpg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 .bg-service-2 {
-    background-image: url('../img/service-2.jpg');
+    background-image: url('../img/service-two.jpg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 .bg-service-3 {
-    background-image: url('../img/service-3.jpg');
+    background-image: url('../img/service-three.jpeg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 .bg-service-4 {
-    background-image: url('../img/service-4.jpg');
+    background-image: url('../img/service-four.jpg');
     min-height: 455px;
     background-size: cover;
     background-repeat: no-repeat;
