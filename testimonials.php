@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   
-<!-- Mirrored from wivana-html.zaderonstudio.com/testimonials.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 09 Aug 2025 13:08:24 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -16,163 +16,7 @@
   <body>
     <div class="about-bg">
       <!-- Navbar Start -->
-      <div
-        class="container d-none d-lg-flex justify-content-between border-hero"
-      >
-        <div class="d-flex gap-2 py-2">
-          <a href="#" class="icon-circle-32 share" data-share-to="facebook">
-            <i class="fa-brands fa-facebook-f"></i>
-          </a>
-          <a href="#" class="icon-circle-32 share" data-share-to="instagram">
-            <i class="fa-brands fa-instagram"></i>
-          </a>
-          <a href="#" class="icon-circle-32 share" data-share-to="youtube">
-            <i class="fa-brands fa-youtube"></i>
-          </a>
-          <a href="#" class="icon-circle-32 share" data-share-to="linkedin">
-            <i class="fa-brands fa-linkedin"></i>
-          </a>
-        </div>
-        <div id="alert-container"></div>
-        <div
-          class="d-flex gap-3 align-items-center justify-content-center lato c-white"
-        >
-          <div>
-            <i class="fa-regular fa-envelope fs-16"></i
-            ><span class="ms-2 fs-13"><a href="cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="bad9d5d4cedbd9cefacdd3ccdbd4db94d9d5d7">[email&#160;protected]</a></span>
-          </div>
-          <div>
-            <i class="fa-solid fa-phone me-2 fs-16"></i
-            ><span class="fs-13">+1 (555) 123-4567</span>
-          </div>
-        </div>
-      </div>
-      <nav class="navbar navbar-expand-lg navbar-dark lato">
-        <div class="container-lg d-flex">
-          <a class="navbar-brand ms-0 ms-sm-3 ms-lg-0" href="index.html">
-            <img
-              src="img/wivana-logo-dark.png"
-              alt="Brand Logo"
-              width="166"
-              height="41"
-              class="d-inline-block align-text-top"
-            />
-          </a>
-
-          <button
-            class="navbar-toggler me-3"
-            type="button"
-            data-bs-toggle="offcanvas"
-            data-bs-target="#offcanvasNavbar"
-            aria-controls="offcanvasNavbar"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-            <span class="navbar-toggler-icon"></span>
-            <span class="navbar-toggler-icon"></span>
-          </button>
-
-          <div
-            class="offcanvas offcanvas-start"
-            tabindex="-1"
-            id="offcanvasNavbar"
-            data-bs-scroll="true"
-            aria-labelledby="offcanvasNavbar"
-          >
-            <div class="offcanvas-header">
-              <button
-                type="button"
-                class="btn-close text-reset"
-                data-bs-dismiss="offcanvas"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div class="offcanvas-body d-lg-flex justify-content-center">
-              <ul class="navbar-nav gap-3">
-                <li class="nav-item">
-                  <a class="nav-link" href="index.html">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="about.html">About</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="contact.html">Contact</a>
-                </li>
-                <li class="nav-item dropdown">
-                  <button
-                    class="nav-link"
-                    id="servicesDropdown"
-                    data-bs-toggle="dropdown"
-                    aria-expanded="false"
-                  >
-                    Services
-                    <i class="fa-solid fa-angle-down ms-1"></i>
-                  </button>
-                  <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
-                    <li>
-                      <a class="dropdown-item" href="services.html">Services</a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="services-detail.html"
-                        >Service Detail</a
-                      >
-                    </li>
-                  </ul>
-                </li>
-                <li class="nav-item dropdown">
-                  <button
-                    class="nav-link active"
-                    id="pagesDropdown"
-                    data-bs-toggle="dropdown"
-                    aria-expanded="false"
-                  >
-                    Pages
-                    <i class="fa-solid fa-angle-down ms-1"></i>
-                  </button>
-                  <ul class="dropdown-menu" aria-labelledby="pagesDropdown">
-                    <li>
-                      <a class="dropdown-item" href="team.html">Team</a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="packages.html">Packages</a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="our-process.html"
-                        >Our Process</a
-                      >
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="faqs.html">FAQS</a>
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="testimonials.html"
-                        >Testimonials</a
-                      >
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="blog-post.html"
-                        >Blog Post</a
-                      >
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="single-post.html"
-                        >Single Post</a
-                      >
-                    </li>
-                    <li>
-                      <a class="dropdown-item" href="404-page.html">404 Page</a>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="d-none d-lg-flex">
-            <a href="contact.html" class="btn-light"> Make Appointment </a>
-          </div>
-        </div>
-      </nav>
+      <?php include 'navbar.php'; ?>
       <!-- Navbar End -->
 
       <!-- Banner Start -->
@@ -188,11 +32,8 @@
               class="d-flex gap-3 philosopher fs-14 c-silver align-items-center justify-content-center large-padding mt-4"
             >
               <div>HOME</div>
-              <i
-                class="fa-solid fa-arrow-right-long"
-                style="color: #c7c7c7"
-              ></i>
-              <div>PAGES</div>
+             
+              
               <i
                 class="fa-solid fa-arrow-right-long"
                 style="color: #c7c7c7"
@@ -220,11 +61,7 @@
               </div>
               <div class="title-about c-semi-black">What Our Customer Say</div>
             </div>
-            <div class="d-flex justify-content-end align-items-end">
-              <a href="testimonials.html" class="btn-dark mt-3">
-                More Testimonial
-              </a>
-            </div>
+           
           </div>
           <div>
             <div class="row row-cols-1 row-cols-sm-2 g-3">
@@ -233,10 +70,7 @@
                   <div class="card-body bg-semi-white">
                     <div>
                       <p class="text-grey">
-                        Wivana’s personalized care is unmatched. Each treatment
-                        is tailored to my wellness needs, leaving me relaxed and
-                        revitalized. The atmosphere is calming, and the staff is
-                        attentive, making every visit special
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quibusdam laboriosam a sit! Fuga minus maiores repellendus quisquam, alias itaque beatae natus expedita.
                       </p>
                     </div>
                     <div
@@ -610,10 +444,9 @@
                 >WELLNESS SHOWCASE</span
               >
             </div>
-            <div class="title-about c-semi-black">Our Spa Experience</div>
+            <div class="title-about c-semi-black">Our Ashtanga Yoga Experience</div>
             <div class="subtext-showcase">
-              Discover the essence of Wivana Spa, where every image tells a
-              story of healing and rejuvenation
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit eaque dicta consectetur delectus animi ex!
             </div>
           </div>
         </div>
@@ -666,205 +499,7 @@
     </div>
     <!-- Wellness Showcase End -->
     <!-- Footer Start -->
-    <div class="bg-darker w-100">
-      <div class="width-base">
-        <div class="container px-0 footer-padding">
-          <div class="row row-cols-1 row-cols-lg-2 g-3">
-            <div class="col">
-              <div>
-                <a href="index.html">
-                  <img
-                    src="img/wivana-logo-dark.png"
-                    alt="wivana logo"
-                    class="footer-logo"
-                  />
-                </a>
-              </div>
-              <div class="my-4">
-                <div class="text-silver subtext-footer">
-                  Embrace the power of Ayurveda to restore, balance, revitalize
-                  your spirit.
-                </div>
-              </div>
-              <div class="d-flex gap-2 py-2">
-                <span class="icon-circle-32 bg-grey">
-                  <i
-                    class="fa-brands fa-facebook-f share"
-                    data-share-to="facebook"
-                  ></i>
-                </span>
-                <span
-                  class="icon-circle-32 bg-grey share"
-                  data-share-to="instagram"
-                >
-                  <i class="fa-brands fa-instagram"></i>
-                </span>
-                <span
-                  class="icon-circle-32 bg-grey share"
-                  data-share-to="youtube"
-                >
-                  <i class="fa-brands fa-youtube"></i>
-                </span>
-                <span
-                  class="icon-circle-32 bg-grey share"
-                  data-share-to="linkedin"
-                >
-                  <i class="fa-brands fa-linkedin"></i>
-                </span>
-              </div>
-            </div>
-            <div class="col d-flex justify-content-end align-items-end">
-              <form class="newsletter-container" id="newsletterForm">
-                <h3 class="text-subtitle c-white">Newsletter</h3>
-                <div class="popup-message" id="popupMessage">
-                  <div>
-                    <i class="fa-solid fa-check fa-2xl"></i>
-                  </div>
-                  Thank you! The form submitted successfully
-                </div>
-                <div class="newsletter-form">
-                  <input
-                    type="email"
-                    placeholder="Your Email"
-                    class="email-input"
-                  />
-                  <button type="submit" class="btn-newsletter">
-                    <svg
-                      id="Layer_1"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 512 207.99"
-                      width="32"
-                      height="15"
-                    >
-                      <defs>
-                        <style>
-                          .cls-1 {
-                            fill: #fff;
-                            stroke-width: 0px;
-                          }
-                        </style>
-                      </defs>
-                      <path
-                        class="cls-1"
-                        d="M504.66,85.8L422.97,4.11c-5.48-5.48-14.36-5.48-19.83,0-5.48,5.48-5.48,14.36,0,19.83l66.02,66.02H162.65c-7.75,0-14.03,6.27-14.03,14.03s6.27,14.03,14.03,14.03h305.63l-66.05,66.02c-5.48,5.48-5.48,14.36,0,19.83,2.74,2.74,6.33,4.11,9.92,4.11s7.18-1.37,9.92-4.11l82.6-82.57c9.78-9.78,9.78-25.72,0-35.51Z"
-                      />
-                      <path
-                        class="cls-1"
-                        d="M120.87,89.97H14.03c-7.75,0-14.03,6.27-14.03,14.03s6.27,14.03,14.03,14.03h106.84c7.75,0,14.03-6.27,14.03-14.03s-6.27-14.03-14.03-14.03Z"
-                      />
-                    </svg>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-          <div class="row mt-5">
-            <div class="col-12 col-lg-4">
-              <h3 class="text-subtitle c-white mb-4">Working Hour</h3>
-              <p class="text-silver mb-4">
-                Our Doors Are Open for Your Healing Journey
-              </p>
-              <div class="mb-2">
-                <i class="fa-regular fa-clock" style="color: #c7c7c7"></i>
-                <span class="text-silver"
-                  >Monday - Friday: 9:00 AM - 8:00 PM</span
-                >
-              </div>
-              <div>
-                <i class="fa-regular fa-clock" style="color: #c7c7c7"></i>
-                <span class="text-silver">Sat - Sun : 8:00AM - 5:00PM</span>
-              </div>
-            </div>
-            <div class="col-12 col-lg-3">
-              <div>
-                <h3 class="text-subtitle c-white mb-3 mb-lg-4 mt-5 mt-lg-0">
-                  Address
-                </h3>
-                <div>
-                  <p class="text-silver pe-5">
-                    123 Wellness Road Serenity City, CA 90210 United States
-                  </p>
-                </div>
-              </div>
-              <div>
-                <h3 class="text-subtitle c-white my-4">Contact</h3>
-                <div>
-                  <p class="text-silver my-0">+1(234)567890</p>
-                  <p class="text-silver">email : <a href="cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="e38a8d858ca3948a95828d82cd808c8e">[email&#160;protected]</a></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-12 col-lg-1"></div>
-            <div class="col-12 col-lg-2">
-              <h3 class="text-subtitle c-white mb-0 mb-lg-4 mt-5 mt-lg-0">
-                Explore
-              </h3>
-              <ul class="footer-links">
-                <li>
-                  <a href="index.html" class="text-silver footer-link">Home</a>
-                </li>
-                <li>
-                  <a href="about.html" class="text-silver footer-link">About</a>
-                </li>
-                <li>
-                  <a href="packages.html" class="text-silver footer-link"
-                    >Packages</a
-                  >
-                </li>
-                <li>
-                  <a href="faqs.html" class="text-silver footer-link">FAQS</a>
-                </li>
-                <li>
-                  <a href="services.html" class="text-silver footer-link"
-                    >Services</a
-                  >
-                </li>
-                <li>
-                  <a href="team.html" class="text-silver footer-link">Team</a>
-                </li>
-              </ul>
-            </div>
-            <div class="col-12 col-lg-2">
-              <h3 class="text-subtitle c-white mb-0 mb-lg-4 mt-5 mt-lg-0">
-                Navigation
-              </h3>
-              <ul class="footer-links">
-                <li>
-                  <a href="index.html" class="text-silver footer-link"
-                    >Documentation</a
-                  >
-                </li>
-                <li>
-                  <a href="index.html" class="text-silver footer-link"
-                    >Privacy</a
-                  >
-                </li>
-                <li>
-                  <a href="about.html" class="text-silver footer-link"
-                    >Therapy</a
-                  >
-                </li>
-                <li>
-                  <a href="contact.html" class="text-silver footer-link"
-                    >Contact</a
-                  >
-                </li>
-                <li>
-                  <a href="blog-post.html" class="text-silver footer-link"
-                    >Blog Post</a
-                  >
-                </li>
-                <li>
-                  <a href="index.html" class="text-silver footer-link"
-                    >Cookies</a
-                  >
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <?php include 'footer.php'; ?>
     <!-- Footer End -->
     <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="lib/js/bootstrap.bundle.min.js"></script>
     <script src="lib/js/swiper-bundle.min.js"></script>
@@ -872,5 +507,5 @@
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"96c77a939a953af7","version":"2025.7.0","r":1,"serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"bf2b6dfde57a4688a8a7204e4a949833","b":1}' crossorigin="anonymous"></script>
 </body>
 
-<!-- Mirrored from wivana-html.zaderonstudio.com/testimonials.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 09 Aug 2025 13:08:25 GMT -->
+
 </html>

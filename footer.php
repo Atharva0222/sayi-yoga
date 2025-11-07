@@ -1,4 +1,4 @@
- <div class="bg-darker w-100">
+ <div class="bg-darker w-100 footer-with-edge">
       <div class="width-base">
         <div class="container px-0 footer-padding">
           <div class="row row-cols-1 row-cols-lg-2 g-3">
@@ -175,6 +175,8 @@
               <p class="text-silver mb-0">Website Designed and Developed by <a href="http://growthsphereindustries.com/" target="_blank" class="text-silver" style="text-decoration: underline;">GrowthSphere Industries LLC.</a></p>
             </div>
           </div>
+          <!-- decorative footer image anchored to the right edge -->
+          <img src="img/footer-design-1.png" alt="footer-decor" class="footer-edge-img" />
         </div>
       </div>
     </div>

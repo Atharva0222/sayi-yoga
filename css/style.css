@@ -1034,6 +1034,28 @@
     padding-bottom: 0;
 }
 
+/* Decorative footer edge image: positioned to the right edge of the footer
+   and hidden on small screens to avoid overlapping content. */
+.footer-with-edge {
+    position: relative; /* create positioning context for the edge image */
+}
+.footer-edge-img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    max-width: 320px;
+    width: auto;
+    height: auto;
+    pointer-events: none; /* image shouldn't intercept clicks */
+    z-index: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .footer-edge-img {
+        display: none;
+    }
+}
+
 
 /* Other Style */
 .large-padding {

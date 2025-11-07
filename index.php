@@ -447,7 +447,7 @@
               <div class="title-about c-semi-black">What Our Customer Say</div>
             </div>
             <div class="d-flex justify-content-end align-items-end">
-              <a href="testimonials.html" class="btn-dark mt-3">
+              <a href="testimonials.php" class="btn-dark mt-3">
                 More Testimonial
               </a>
             </div>
