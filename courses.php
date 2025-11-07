@@ -1,4 +1,4 @@
-<div class="bg-subtle w-100 position-relative large-padding">
+<div class="bg-subtle w-100 position-relative medium-padding">
       <div class="width-base">
         <div class="row row-cols-1 row-cols-sm-2 g-3 align-items-end mb-5">
           <div class="col fade-in">
@@ -31,7 +31,7 @@
                 >
                   <div class="lato c-semi-black fs-18">2 Weeks</div>
                   <div>
-                    <a href="services-detail.php" class="btn-dark">
+                    <a href="services-detail-two-week.php" class="btn-dark">
                       Learn More
                     </a>
                   </div>
@@ -53,7 +53,7 @@
                 >
                   <div class="lato c-semi-black fs-18">2 Months</div>
                   <div>
-                    <a href="services-detail.php" class="btn-dark">
+                    <a href="services-detail-two-month.php" class="btn-dark">
                       Learn More
                     </a>
                   </div>
@@ -75,7 +75,7 @@
                 >
                   <div class="lato c-semi-black fs-18">Regular Classes</div>
                   <div>
-                    <a href="services-detail.php" class="btn-dark">
+                    <a href="services-detail-half-primary.php" class="btn-dark">
                       Learn More
                     </a>
                   </div>
@@ -97,7 +97,7 @@
                 >
                   <div class="lato c-semi-black fs-18">Advanced Level</div>
                   <div>
-                    <a href="services-detail.php" class="btn-dark">
+                    <a href="services-detail-full-primary.php" class="btn-dark">
                       Learn More
                     </a>
                   </div>

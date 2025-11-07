@@ -33,7 +33,7 @@
           <div class="container-lg d-flex">
             <a class="navbar-brand ms-0 ms-sm-3 ms-lg-0" href="index.html">
               <img
-                src="img/wivana-logo-dark.png"
+                src="img/logo/logo-name.jpeg"
                 alt="Brand Logo"
                 width="166"
                 height="41"

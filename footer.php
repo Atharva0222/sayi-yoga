@@ -171,7 +171,7 @@
           <div class="row mt-4">
             <div class="col-12">
               <hr class="border-secondary opacity-25 my-3">
-              <p class="text-silver mb-1">Copyright 2025 Terravertex Innovation Hub | All Rights Reserved</p>
+              <p class="text-silver mb-1">Copyright 2025 SAYI Institute | All Rights Reserved</p>
               <p class="text-silver mb-0">Website Designed and Developed by <a href="http://growthsphereindustries.com/" target="_blank" class="text-silver" style="text-decoration: underline;">GrowthSphere Industries LLC.</a></p>
             </div>
           </div>
