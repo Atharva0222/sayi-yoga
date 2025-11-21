@@ -178,21 +178,13 @@
               <img src="icon/testimonial-icon.png" alt="testimonial quote" />
             </div>
             <p class="fs-22 lato c-silver text-center ceo-quote mt-3 mb-4">
-              At Wivana, we're dedicated to helping you achieve balance,
-              healing, and peace through personalized Ayurvedic care for mind,
-              body, and spirit
+              शरीरं साधनं योगस्य, प्राणो जीवनम्, चित्तं मार्गदर्शकः।"
             </p>
           </div>
           <div>
-            <div class="d-flex justify-content-center fade-in">
-              <img
-                src="img/Signature-dummy_2.png"
-                class="signature"
-                alt="signature"
-              />
-            </div>
+            
             <p class="fs-16 lato c-silver text-center mt-2 mt-md-4 fade-in">
-              Founder
+              Sandeep Shivashankar, Director
             </p>
           </div>
         </div>
@@ -455,10 +447,13 @@
                   <div class="card-body bg-semi-white">
                     <div>
                       <p class="text-grey">
-                        Wivana’s personalized care is unmatched. Each treatment
-                        is tailored to my wellness needs, leaving me relaxed and
-                        revitalized. The atmosphere is calming, and the staff is
-                        attentive, making every visit special
+                        YOGA..... !!! Sandeep Ashtanga Yoga instute  is the ultimate place 
+                        to do Yoga .... an hour of sandeep's class is such a stress buster 
+                        and energy booster .... I feel so refreshed with whole bunch of mind 
+                        charged for rest of the day..... I thoroughly recommend his class to stay 
+                        fit ..... sandeep u r a rockstar !!! Keep motivating us 😊 <br>
+                        <br>
+                        <br>
                       </p>
                     </div>
                     <div
@@ -473,9 +468,9 @@
                           />
                         </div>
                         <div>
-                          <div class="fs-18 c-main lato">Bella Grace</div>
+                          <div class="fs-18 c-main lato">Rashmi Shivaprasad</div>
                           <div class="fs-13 lato c-semi-transparent">
-                            Customer
+                            Client
                           </div>
                         </div>
                       </div>
@@ -496,10 +491,7 @@
                   <div class="card-body bg-semi-white">
                     <div>
                       <p class="text-grey">
-                        Wivana’s personalized care is unmatched. Each treatment
-                        is tailored to my wellness needs, leaving me relaxed and
-                        revitalized. The atmosphere is calming, and the staff is
-                        attentive, making every visit special
+                      It was not workshop, but divine evenings. Your personal attention, dedication for improvements of students health is unbelievable. In-depth knowledge in the subject yoga with spiritual serious approach is proudly appeared & appreciable. Profoundly thankful for accommodating students from teenagers to old age student (64 years) like me. To create an interest into the subject and make participants involved Is the skill of teacher & you did it, demonstrated it. Thanks again & regards Respectfully Submitted
                       </p>
                     </div>
                     <div
@@ -514,9 +506,9 @@
                           />
                         </div>
                         <div>
-                          <div class="fs-18 c-main lato">Nora Lynn</div>
+                          <div class="fs-18 c-main lato">Mukul Karnik</div>
                           <div class="fs-13 lato c-semi-transparent">
-                            Customer
+                            Client
                           </div>
                         </div>
                       </div>
@@ -539,11 +531,10 @@
                   <div class="card-body bg-semi-white">
                     <div>
                       <p class="text-grey">
-                        From the moment I stepped in, I felt peaceful. Wivana’s
-                        Ayurvedic therapies have helped me restore balance in my
-                        life, reducing stress and improving my overall health.
-                        Truly a life-changing experience
-                      </p>
+                       Hi Sandeep sir, six months of yoga with you has changed me. As a cake artist I had 
+                       constant pain and back issues, but now I’m stronger, can move freely, and my HbA1c 
+                       dropped from 8.2 to 5.8. I even do yoga and cardio in a day! Thank you for motivating 
+                       me always. You’ve truly changed my life.
                     </div>
                     <div
                       class="d-flex justify-content-between align-items-start pt-3"
@@ -557,9 +548,9 @@
                           />
                         </div>
                         <div>
-                          <div class="fs-18 c-main lato">Emma Sage</div>
+                          <div class="fs-18 c-main lato">Ashtanga Yoga Client</div>
                           <div class="fs-13 lato c-semi-transparent">
-                            Customer
+                            Client
                           </div>
                         </div>
                       </div>
@@ -583,7 +574,8 @@
                         Wivana’s Panchakarma detox was exactly what I needed.
                         After the treatment, I felt lighter, more energized, and
                         mentally clear. It’s a transformative experience that I
-                        would gladly recommend to everyone
+                        would gladly recommend to everyone <br>
+                        <br>
                       </p>
                     </div>
                     <div
@@ -722,7 +714,7 @@
                       aria-expanded="true"
                       aria-controls="collapseOne"
                     >
-                      What is Wivana’s approach to wellness?
+                     What types of classes are offered at the Shala?
                     </button>
                   </span>
                   <div
@@ -732,10 +724,7 @@
                     data-bs-parent="#wivanaAccordion"
                   >
                     <div class="accordion-body">
-                      Wivana embraces the ancient principles of Ayurveda,
-                      offering personalized treatments that balance the mind,
-                      body, and spirit through natural remedies and holistic
-                      practices.
+                      We offer traditional Mysore-style self-paced practice and led-classes of the Ashtanga Yoga Primary and Intermediate Series. Parallelly, there are optional classes in Yoga Philosophy and Sanskrit for all students. We also organize breathwork and wellness workshops regularly.
                     </div>
                   </div>
                 </div>
@@ -750,7 +739,7 @@
                       aria-expanded="false"
                       aria-controls="collapseTwo"
                     >
-                      What services does Wivana offer?
+                      Can beginners join the practice?
                     </button>
                   </span>
                   <div
@@ -760,10 +749,7 @@
                     data-bs-parent="#wivanaAccordion"
                   >
                     <div class="accordion-body">
-                      Wivana offers a range of services including Abhyanga
-                      massage, Shirodhara therapy, Panchakarma detox programs,
-                      Ayurvedic facials, and wellness consultations, all
-                      designed to promote overall health.
+                      Yes — beginners are welcome to join regular classes. We allow students of all levels to enroll, including absolute beginners. We also offer drop-in classes with prior confirmation.
                     </div>
                   </div>
                 </div>
@@ -778,7 +764,7 @@
                       aria-expanded="false"
                       aria-controls="collapseThree"
                     >
-                      Is a consultation required before my first treatment?
+                     Do you offer online classes?
                     </button>
                   </span>
                   <div
@@ -788,10 +774,7 @@
                     data-bs-parent="#wivanaAccordion"
                   >
                     <div class="accordion-body">
-                      Yes, we recommend a consultation prior to your first
-                      visit. This allows our practitioners to assess your unique
-                      dosha and wellness goals, ensuring a personalized
-                      treatment plan.
+                      Yes. All classes are held offline at the Shala in Mysuru daily. Online classes are offered on prior registration for a minimum period of 3 months. 
                     </div>
                   </div>
                 </div>
@@ -806,7 +789,7 @@
                       aria-expanded="false"
                       aria-controls="collapseFour"
                     >
-                      How can I book a treatment at Wivana?
+                     Does the Shala provide accommodation, food or transport?
                     </button>
                   </span>
                   <div
@@ -816,9 +799,7 @@
                     data-bs-parent="#wivanaAccordion"
                   >
                     <div class="accordion-body">
-                      You can book your treatment by visiting our website and
-                      clicking the “Book Now” button, or by calling our
-                      reception team directly for assistance.
+                     No — students must arrange their stay, meals and transport themselves. The Shala does not endorse or manage nearby accommodation/service providers. 
                     </div>
                   </div>
                 </div>
@@ -833,7 +814,7 @@
                       aria-expanded="false"
                       aria-controls="collapseFive"
                     >
-                      How can I book a treatment at Wivana?
+                     What are the Shala guidelines and etiquette students must follow?
                     </button>
                   </span>
                   <div
@@ -843,9 +824,7 @@
                     data-bs-parent="#wivanaAccordion"
                   >
                     <div class="accordion-body">
-                      You can book your treatment by visiting our website and
-                      clicking the “Book Now” button, or by calling our
-                      reception team directly for assistance.
+                      Students should adhere to the Shala’s etiquette: modest dress, no perfumes or distracting clothing, mobile phones off inside the practice hall, no photography in the hall, respect the practice area as a place of learning and discipline. 
                     </div>
                   </div>
                 </div>
@@ -860,7 +839,7 @@
                       aria-expanded="false"
                       aria-controls="collapseSix"
                     >
-                      How can I book a treatment at Wivana?
+                      How do I register/apply for a practice period or teacher training?
                     </button>
                   </span>
                   <div
@@ -870,9 +849,82 @@
                     data-bs-parent="#wivanaAccordion"
                   >
                     <div class="accordion-body">
-                      You can book your treatment by visiting our website and
-                      clicking the “Book Now” button, or by calling our
-                      reception team directly for assistance.
+                     You need to fill out the online application form. After confirmation email, you bring required documents for in-person registration (passport copy, visa, photo, local address etc). 
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion-item">
+                  <span class="accordion-header" id="headingSeven">
+                    <button
+                      class="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapseSeven"
+                      aria-expanded="false"
+                      aria-controls="collapseSeven"
+                    >
+                      How do I register/apply for a practice period or teacher training?
+                    </button>
+                  </span>
+                  <div
+                    id="collapseSeven"
+                    class="accordion-collapse collapse"
+                    aria-labelledby="headingSeven"
+                    data-bs-parent="#wivanaAccordion"
+                  >
+                    <div class="accordion-body">
+                     You need to fill out the online application form. After confirmation email, you bring required documents for in-person registration (passport copy, visa, photo, local address etc). 
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion-item">
+                  <span class="accordion-header" id="headingEight">
+                    <button
+                      class="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapseEight"
+                      aria-expanded="false"
+                      aria-controls="collapseEight"
+                    >
+                    Is there a minimum age or minimum stay period?
+                    </button>
+                  </span>
+                  <div
+                    id="collapseEight"
+                    class="accordion-collapse collapse"
+                    aria-labelledby="headingEight"
+                    data-bs-parent="#wivanaAccordion"
+                  >
+                    <div class="accordion-body">
+                    Yes — for some programmes there is a minimum age (for example 12 years in the regular classes) and a minimum stay period (for example one or two weeks) as specified for each session. 
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion-item">
+                  <span class="accordion-header" id="headingNine">
+                    <button
+                      class="accordion-button collapsed"
+                      type="button"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#collapseNine"
+                      aria-expanded="false"
+                      aria-controls="collapseNine"
+                    >
+                      Are there holidays or days when the Shala is closed?
+                    </button>
+                  </span>
+                  <div
+                    id="collapseNine"
+                    class="accordion-collapse collapse"
+                    aria-labelledby="headingNine"
+                    data-bs-parent="#wivanaAccordion"
+                  >
+                    <div class="accordion-body">
+                    Yes — the Shala closes on Full Moon and New Moon days, and follows a holiday calendar. 
                     </div>
                   </div>
                 </div>
