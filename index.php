@@ -295,10 +295,9 @@
                   alt="choose"
                 />
               </div>
-              <p class="text-subtitle c-white mt-3">Authentic Ayurveda</p>
+              <p class="text-subtitle c-white mt-3">Authentic Mysore Style Practice</p>
               <p class="text-white text-center m-0 mb-lg-4">
-                Experience genuine Ayurvedic treatments rooted in centuries of
-                tradition
+                Experience traditional self-paced Ashtanga Yoga under guided supervision — honoring the lineage of Paramaguru R. Sharath Jois.
               </p>
             </div>
             <div
@@ -312,10 +311,10 @@
                   alt="choose"
                 />
               </div>
-              <p class="text-subtitle c-white mt-3">Natural Healing Methods</p>
+              <p class="text-subtitle c-white mt-3">Personalized Guidance & Adjustments</p>
               <p class="text-white text-center m-0 mb-lg-4">
-                We use only natural, herbal remedies and traditional Ayurvedic
-                techniques
+                One-on-one attention to help refine alignment, deepen breath awareness, and safely progress in your practice.
+
               </p>
             </div>
             <div
@@ -329,10 +328,9 @@
                   alt="choose"
                 />
               </div>
-              <p class="text-subtitle c-white mt-3">Expert Practitioners</p>
+              <p class="text-subtitle c-white mt-3">Breath & Bandha Awareness</p>
               <p class="text-white text-center m-0 mb-lg-4">
-                Our services blend therapeutic treatments with lifestyle
-                guidance
+                Learn the art of synchronizing breath, posture, and internal locks — the foundation of meditative movement.
               </p>
             </div>
             <div
@@ -346,10 +344,9 @@
                   alt="choose"
                 />
               </div>
-              <p class="text-subtitle c-white mt-3">Natural Ingredients</p>
+              <p class="text-subtitle c-white mt-3">Community of Practitioners</p>
               <p class="text-white text-center m-0">
-                We use only natural, herbal remedies and techniques, promoting
-                safe
+                Practice in a nurturing space that celebrates discipline, humility, and mutual growth.
               </p>
             </div>
             <div
@@ -363,9 +360,9 @@
                   alt="choose"
                 />
               </div>
-              <p class="text-subtitle c-white mt-3">Serene Environment</p>
+              <p class="text-subtitle c-white mt-3">Workshops & Masterclasses</p>
               <p class="text-white text-center m-0">
-                Our tranquil spa setting is designed to enhance relaxation
+                Explore advanced asanas, philosophy, pranayama, and lifestyle practices through focused sessions led by Sandeep Shivashankar.
               </p>
             </div>
             <div
@@ -379,10 +376,9 @@
                   alt="choose"
                 />
               </div>
-              <p class="text-subtitle c-white mt-3">Proven Results</p>
+              <p class="text-subtitle c-white mt-3">Mindful Living & Wellness</p>
               <p class="text-white text-center m-0">
-                With a 99% customer satisfaction rate, our clients consistently
-                leave feeling revitalized
+                Integrating yoga beyond the mat — through mindful routines, plant-based nourishment, and holistic wellbeing.
               </p>
             </div>
           </div>
